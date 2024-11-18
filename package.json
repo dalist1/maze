@@ -1,0 +1,23 @@
+{
+  "name": "ai-maze-game",
+  "version": "1.0.0",
+  "description": "Interactive AI-powered maze navigation game",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node --env-file=.env dist/index.js",
+    "dev": "node --env-file=.env --loader ts-node/esm src/index.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "latest",
+    "ai": "latest",
+    "chalk": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
