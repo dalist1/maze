@@ -1,7 +1,7 @@
 # AI Maze Navigation System
 
 ## Overview
-An experimental maze navigation system powered by GPT-4, demonstrating autonomous pathfinding with real-time decision analysis and performance monitoring. The system leverages the Vercel AI SDK to create a structured tool-based interaction pattern with the AI model.
+A maze navigation system powered by gpt-4o-mini, demonstrating autonomous pathfinding with real-time decision analysis and performance monitoring. The system leverages the Vercel AI SDK to create a structured tool-based interaction pattern with the AI model.
 
 ## Technical Stack
 - **Runtime**: Bun
