@@ -1,4 +1,4 @@
-# AI Maze Navigation System
+# AI Maze Navigation Agent - Finds its way to the target autonomously while scanning the environment
 
 ## Overview
 A maze navigation system powered by gpt-4o-mini, demonstrating autonomous pathfinding with real-time decision analysis and performance monitoring. The system leverages the Vercel AI SDK to create a structured tool-based interaction pattern with the AI model.
